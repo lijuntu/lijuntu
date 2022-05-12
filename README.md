@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lijuntu
-- 👀 I’m interested in java
-- 🌱 I’m currently learning njupt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 njupt微电子专业在读
+- 👀 Java后学习ing 前端略懂
+- 🌱 属于是什么都不会又什么都想学
+- 💞️ 算法苦修者（难死啦）
 
 <!---
 lijuntu/lijuntu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
